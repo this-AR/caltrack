@@ -1,0 +1,72 @@
+[
+ {
+  "id": "night",
+  "name": "Night",
+  "description": "Charcoal and sage, easy on the eyes at night.",
+  "dark": true,
+  "C": {
+   "bg": "#1C1C1C",
+   "card": "#262626",
+   "ink": "#F1F1EF",
+   "ink2": "#B4B5B0",
+   "ink3": "#8A8B86",
+   "line": "#333331",
+   "track": "#333331",
+   "accent": "#8FA68E",
+   "onAccent": "#1C1C1C",
+   "leaf": "#29A383",
+   "turmeric": "#C2850C",
+   "chili": "#E54666",
+   "indigo": "#5472E4",
+   "plum": "#C25A8C",
+   "white": "#FFFFFF"
+  },
+  "fonts": {
+   "display": "HostGrotesk_500Medium",
+   "displayLight": "HostGrotesk_400Regular",
+   "body": "HostGrotesk_400Regular",
+   "medium": "HostGrotesk_500Medium",
+   "bold": "HostGrotesk_600SemiBold"
+  },
+  "radius": {
+   "sm": 12,
+   "md": 20,
+   "lg": 28
+  }
+ },
+ {
+  "id": "caltrack",
+  "name": "Clay",
+  "description": "Warm stone and pine green.",
+  "dark": false,
+  "C": {
+   "bg": "#EFE9E0",
+   "card": "#F8F4EE",
+   "ink": "#22261F",
+   "ink2": "#5F6158",
+   "ink3": "#85867D",
+   "line": "#E2D9CB",
+   "track": "#E6DED2",
+   "accent": "#2E5B44",
+   "onAccent": "#F8F4EE",
+   "leaf": "#2E8549",
+   "turmeric": "#C98A0C",
+   "chili": "#C2452D",
+   "indigo": "#2F5AA8",
+   "plum": "#8A3F72",
+   "white": "#FFFFFF"
+  },
+  "fonts": {
+   "display": "HostGrotesk_500Medium",
+   "displayLight": "HostGrotesk_400Regular",
+   "body": "HostGrotesk_400Regular",
+   "medium": "HostGrotesk_500Medium",
+   "bold": "HostGrotesk_600SemiBold"
+  },
+  "radius": {
+   "sm": 12,
+   "md": 20,
+   "lg": 28
+  }
+ }
+]

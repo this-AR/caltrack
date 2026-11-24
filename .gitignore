@@ -1,0 +1,38 @@
+# dependencies and generated native projects
+node_modules/
+android/
+ios/
+.expo/
+dist/
+web-build/
+
+# secrets: never commit
+.env
+.env.*
+*.jks
+*.keystore
+*.p12
+*.pem
+*.key
+pass.txt
+keys/
+google-services.json
+GoogleService-Info.plist
+credentials*.json
+
+# build outputs
+*.apk
+*.aab
+*.idsig
+
+# test artefacts (may show a masked key field)
+design/gemini_test.png
+aiflow/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.log
+.vscode/
+.idea/
+design/flow/
